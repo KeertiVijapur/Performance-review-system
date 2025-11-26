@@ -21,7 +21,7 @@ A Simple full-stack web application designed to manage employee performance revi
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
